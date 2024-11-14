@@ -1,7 +1,7 @@
 body
 {
     font-family: Arial, Helvetica, sans-serif;
-    background-color: aquamarine;
+    background-color: rgb(255, 255, 255);
     margin: 2rem 4rem;
     justify-content: center;
 }
@@ -21,4 +21,21 @@ h1
 {
     display: flex;
     justify-content: center;
+}
+
+#slide
+{
+    margin: 4rem 0;
+    text-align: center;
+}
+
+#post
+{
+    display: flex;
+    justify-content: center;
+}
+
+#img
+{
+    margin: 0 10px;
 }
