@@ -23,6 +23,7 @@ h1
     justify-content: center;
 }
 
+<<<<<<< HEAD
 #slide
 {
     margin: 4rem 0;
@@ -38,4 +39,20 @@ h1
 #img
 {
     margin: 0 10px;
+=======
+#cabezote
+{
+    color: white;
+    background-color: #177d00;
+    margin: 0 8rem;
+    padding: 0 4rem;
+}
+
+h2
+{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: 300;
+    text-align: center;
+>>>>>>> cabezote
 }
