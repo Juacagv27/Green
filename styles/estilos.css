@@ -64,3 +64,14 @@ button
     color: white;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+
+#footer
+{
+    background: #000000;
+    color: white;
+    text-align: center;
+    width: 100%;
+    height: 30px;
+    margin-top: 2rem;
+    padding: 0.5em;
+}
